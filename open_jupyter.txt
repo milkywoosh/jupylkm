@@ -1,0 +1,18 @@
+ source https://www.youtube.com/watch?v=xz0KKGBRKNw
+--- > how to install jupyter notebook ON MAC??
+0. create virtual env python --> python3 -m venv jupyter
+	* no. 0 create virtual environment called "jupyter"
+1. source ~/jupyter/bin/activate. -> activate venv jupyter 
+2. pip3 install jupyter notebook
+3. *** process installing ***
+4. done
+
+---> HOW TO OPEN JUPY NOTE??
+1. source jupyter/bin/activate
+2. go to specific folder cd jupyterlkm
+3. jupyter notebook
+
+
+REMEMBER ALWAYS OPEN VENV before install something !!!!
+
+
